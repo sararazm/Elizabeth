@@ -6,3 +6,7 @@ var number = 10
 }
 ```
 ###hej igen
+```javascript{
+let name = "Lizzy";
+} 
+```
